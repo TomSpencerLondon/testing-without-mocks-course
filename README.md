@@ -316,6 +316,9 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 This is a private link which I use to practice this repo:
 https://www.jamesshore.com/v2/courses/testing-without-mocks
 
+This is a forked repo of the course:
+https://github.com/TomSpencerLondon/testing-without-mocks-course
+
 This lunch and learn series is an excellent overview of javascript:
 https://www.jamesshore.com/v2/projects/lunch-and-learn
 I want to do this next after practicing again with typescript on the testing-without-mocks course (there is a typescript path as well - it's a very good course)
@@ -338,3 +341,5 @@ Episode 611: Reproducible Builds
 Episode 612: Evolutionary Design
 Episode 613: Visual Testing
 Episode 614: Testing Without Mocks
+
+
