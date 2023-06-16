@@ -342,4 +342,14 @@ Episode 612: Evolutionary Design
 Episode 613: Visual Testing
 Episode 614: Testing Without Mocks
 
+This is good for beginners:
+https://www.letscodejavascript.com/v3/episodes/how_to
+
+The live channel is good for more experienced javascript devs - in this series James builds a paint application in real time:
+https://www.letscodejavascript.com/v3/episodes/live
+
+This lab has good resources for tooling:
+https://www.letscodejavascript.com/v3/episodes/lab
+It includes overviews of React, Angular and also a very good legacy code series:
+https://www.letscodejavascript.com/v3/comments/lab/6
 
