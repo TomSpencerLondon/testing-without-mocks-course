@@ -353,3 +353,5 @@ https://www.letscodejavascript.com/v3/episodes/lab
 It includes overviews of React, Angular and also a very good legacy code series:
 https://www.letscodejavascript.com/v3/comments/lab/6
 
+This is an interesting CSS testing library James Shore developed:
+https://github.com/jamesshore/quixote
