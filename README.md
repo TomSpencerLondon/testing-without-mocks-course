@@ -311,3 +311,30 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### Useful links for the course
+This is a private link which I use to practice this repo:
+https://www.jamesshore.com/v2/courses/testing-without-mocks
+
+This lunch and learn series is an excellent overview of javascript:
+https://www.jamesshore.com/v2/projects/lunch-and-learn
+I want to do this next after practicing again with typescript on the testing-without-mocks course (there is a typescript path as well - it's a very good course)
+
+This course is an excellent overview of Javascript best practices:
+https://www.letscodejavascript.com/v3/account/start_here
+
+The Live channel has over 150 hours of content, but don’t worry, you don’t have to start at the beginning. I suggest starting with one of our most recent seasons. Here’s the whole list:
+
+Season 1: Node.js
+Season 2: Front-End Development
+Season 3: Productization
+Season 4: Design and CSS (includes CSS testing and refactoring!)
+Season 5: Real-Time Web
+Season 6: Advanced Real-Time Networking
+There’s a ton of great content in the Live channel, so check out the table of contents and pick chapters that look interesting. You might also want to watch our final recap chapter. It reviews four of the most interesting ideas we covered in the Live series:
+
+Episode 610: A Few of My Favorite Things (introduction)
+Episode 611: Reproducible Builds
+Episode 612: Evolutionary Design
+Episode 613: Visual Testing
+Episode 614: Testing Without Mocks
